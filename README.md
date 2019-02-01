@@ -1,9 +1,16 @@
+# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
 # Localizator
 
 This plugin provides two simple rake tasks to help keeping tranlations in
 sync with the default locale.
 
-## Installation
+<a href="https://evrone.com/?utm_source=github.com">
+  <img src="https://evrone.com/logo/evrone-sponsored-logo.png"
+       alt="Sponsored by Evrone" width="231">
+</a>
+
+## Getting Started
+### Installation
 
 Add this line to your application's Gemfile:
 
@@ -17,7 +24,7 @@ Or install it yourself as:
 
     $ gem install localizator
 
-## Usage
+### Usage
 
 Start creating a new locale with:
 
@@ -46,8 +53,19 @@ file and merge them back into the main locale file.
 
 ## Contributing
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+Please read [Code of Conduct](CODE-OF-CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md) for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, 
+see the [tags on this repository](https://github.com/evrone/localizator/tags). 
+
+## Authors
+
+* [Andrey Morskov](https://github.com/accessd) - *Initial work*
+
+See also the list of [contributors](https://github.com/evrone/localizator/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
